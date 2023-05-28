@@ -15,10 +15,10 @@
       <div class="collapse navbar-collapse" id="navbarText">
         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
           <li class="nav-item mx-3">
-            <a class="nav-link" aria-current="page" href="#">Home</a>
+            <a class="nav-link" aria-current="page" href="/">Home</a>
           </li>
           <li class="nav-item mx-3">
-            <a class="nav-link" href="#">Orders</a>
+            <a class="nav-link" href="/myorders">Orders</a>
           </li>
           <form class="d-flex mx-3" action="../search" method="get"> 
             <input class="form-control me-2 search-box" name="query" type="search" placeholder="Search" aria-label="Search">
